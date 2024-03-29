@@ -590,7 +590,7 @@ the `/etc/icingadb-redis/icingadb-redis.conf` configuration file:
 Restart Icinga DB Redis for these changes to take effect:
 
 ```bash
-systemctl restart icingadb-redis
+systemctl restart icingadb-redis-server
 ```
 
 ### Enable Icinga DB Feature <a id="enable-icinga-db-feature"></a>
